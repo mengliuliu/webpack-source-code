@@ -1,2 +1,2 @@
-import { print } from "./utils";
-document.write(print("world"));
+import { print } from './utils.js'
+document.write(print('world'))
