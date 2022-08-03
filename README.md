@@ -1,9 +1,11 @@
 # webpack-source-code
-webpack原理
-测试merge的fast-forward
-测试merge的no-ff
-测试no-ff过程一般
-测试先pull后add、commit
-测试pull的时候本地没有修改
+
+webpack 原理
+测试 merge 的 fast-forward
+测试 merge 的 no-ff
+测试 no-ff 过程一般
+测试先 pull 后 add、commit
+测试 pull 的时候本地没有修改
 一次提交
 提交
+一次提交而已
