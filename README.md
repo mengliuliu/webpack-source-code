@@ -10,3 +10,4 @@ webpack 原理
 提交
 一次提交而已
 测试不设置pull.文件
+测试pull.rebase false能否快速合并
