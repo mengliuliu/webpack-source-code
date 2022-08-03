@@ -13,3 +13,4 @@ webpack 原理
 测试pull.rebase false能否快速合并
 测试pull.rebase false能否非快速合并
 远程提交
+测试fetch和merge
