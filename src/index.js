@@ -1,10 +1,5 @@
 import { print } from './utils.js'
+// const lodash = require('lodash')
+import lodash from 'lodash'
+
 document.write(print('world'))
-console.log('一次提交')
-console.log('2次提交')
-console.log('3次提交')
-console.log('4次提交')
-console.log('测试merge的默认值')
-console.log('测试merge的默认情况下是否会no-ff')
-console.log('普通的一次提交')
-console.log('本地提交')
