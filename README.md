@@ -15,3 +15,5 @@ webpack 原理
 远程提交
 测试 fetch 和 merge
 测试非快进合并
+测试 fetch 和 merge
+制造冲突
