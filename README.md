@@ -9,8 +9,9 @@ webpack 原理
 一次提交
 提交
 一次提交而已
-测试不设置pull.文件
-测试pull.rebase false能否快速合并
-测试pull.rebase false能否非快速合并
+测试不设置 pull.文件
+测试 pull.rebase false 能否快速合并
+测试 pull.rebase false 能否非快速合并
 远程提交
-测试fetch和merge
+测试 fetch 和 merge
+测试非快进合并
